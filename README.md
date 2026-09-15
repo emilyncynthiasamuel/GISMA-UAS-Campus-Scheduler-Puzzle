@@ -66,29 +66,29 @@ No database framework is used and this Project uses Python's built-in JSON handl
 # 3. Project Structure
 
 GISMA_UAS_Campus_Scheduler_Puzzle/
-|
-|--> data/
-│   |--> constraints.json
 │
-|--> output/
-│   |--> conflict_report.txt
-│   |--> scheduling_report.txt
-│   |--> timetable.csv
+├── data/
+│   └── constraints.json
 │
-|--> src/
-|   |--> __pycache__
-│   |--> backtracker.py
-│   |--> data_loader.py
-│   |--> graph_engine.py
-│   |--> greedy_solver.py
-│   |--> main.py
-│   |--> models.py
-│   |--> optimizer.py
-│   |--> reporter.py
-│   |--> validator.py
+├── output/
+│   ├── timetable.csv
+│   ├── scheduling_report.txt
+│   └── conflict_report.txt
 │
-|--> README.md
-|--> requirements.txt
+├── src/
+│   ├── backtracker.py
+│   ├── data_loader.py
+│   ├── graph_engine.py
+│   ├── greedy_solver.py
+│   ├── main.py
+│   ├── models.py
+│   ├── optimizer.py
+│   ├── reporter.py
+│   └── validator.py
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
 
 ### System Components and Implementation Files
 
