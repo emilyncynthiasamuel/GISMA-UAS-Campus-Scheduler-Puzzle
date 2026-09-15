@@ -1,0 +1,4 @@
+GISMA UNIVERSITY OF APPLIED SCIENCES - CAMPUS SCHEDULER PUZZLE'S CONFLICT REPORT
+----------------------------------------------------------------------
+
+Hello Cynthia! No Hard Constraint Conflicts or Duplicate Bookings were detected.

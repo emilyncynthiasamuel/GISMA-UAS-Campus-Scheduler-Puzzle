@@ -1,0 +1,80 @@
+Class ID,Module Code,Module Name,Student Group,Section,Professor ID,Day,Time Slot,Room ID,Campus,Student Count
+GISMA-101,M502,Project Management,M502A,,F002,Monday,09:00-12:00,Room2,POTSDAM,36
+GISMA-102,M523,Digital Competencies,M502A,,F006,Monday,13:00-16:00,Room2,POTSDAM,36
+GISMA-103,M564,Management of IT Projects,M502A,,F007,Monday,16:00-19:00,Room2,POTSDAM,36
+GISMA-104,B110,Economics and Digital Economics,B110A,B,P004,Monday,13:00-16:00,D001,BERLIN,28
+GISMA-105,B111,Fundamentals of Marketing,B110A,B,P005,Monday,09:00-12:00,D001,BERLIN,28
+GISMA-106,B122,Business Mathematics,B110A,B,P007,Monday,16:00-19:00,D001,BERLIN,28
+GISMA-107,B110,Economics and Digital Economics,B110B,B,P004,Monday,16:00-19:00,D002,BERLIN,28
+GISMA-108,B111,Fundamentals of Marketing,B110B,B,P005,Monday,13:00-16:00,D002,BERLIN,28
+GISMA-109,B122,Business Mathematics,B110B,B,P007,Monday,09:00-12:00,D002,BERLIN,28
+GISMA-110,B206,Operating Systems,M601A,B,P003,Monday,09:00-12:00,D003,BERLIN,28
+GISMA-111,M601,Advanced Mathematics,M601A,B,F008,Monday,13:00-16:00,Room1,POTSDAM,28
+GISMA-112,B122,Business Mathematics,M601A,B,P007,Tuesday,09:00-12:00,D001,BERLIN,28
+GISMA-113,B110,Economics and Digital Economics,B110A,A,P004,Tuesday,09:00-12:00,D002,BERLIN,27
+GISMA-114,B111,Fundamentals of Marketing,B110A,A,P005,Tuesday,13:00-16:00,D001,BERLIN,27
+GISMA-115,B122,Business Mathematics,B110A,A,P007,Tuesday,16:00-19:00,D001,BERLIN,27
+GISMA-116,B110,Economics and Digital Economics,B110B,A,P004,Tuesday,13:00-16:00,D002,BERLIN,27
+GISMA-117,B111,Fundamentals of Marketing,B110B,A,P005,Tuesday,09:00-12:00,D003,BERLIN,27
+GISMA-118,B122,Business Mathematics,B110B,A,P007,Wednesday,09:00-12:00,D001,BERLIN,27
+GISMA-119,B206,Operating Systems,M601A,A,P003,Monday,16:00-19:00,D003,BERLIN,27
+GISMA-120,M601,Advanced Mathematics,M601A,A,F008,Tuesday,13:00-16:00,Room1,POTSDAM,27
+GISMA-121,B122,Business Mathematics,M601A,A,P007,Wednesday,13:00-16:00,D001,BERLIN,27
+GISMA-122,B101,Data Structures and Algorithms,B101A,A,P001,Monday,09:00-12:00,D004,BERLIN,26
+GISMA-123,B101,Data Structures and Algorithms,B101A,B,P001,Monday,13:00-16:00,D003,BERLIN,26
+GISMA-124,B123,Statistics,B101A,A,P002,Monday,16:00-19:00,D004,BERLIN,26
+GISMA-125,B123,Statistics,B101A,B,P002,Tuesday,09:00-12:00,D004,BERLIN,26
+GISMA-126,B206,Operating Systems,B101A,A,P003,Tuesday,13:00-16:00,D003,BERLIN,26
+GISMA-127,B206,Operating Systems,B101A,B,P003,Tuesday,16:00-19:00,D002,BERLIN,26
+GISMA-128,B101,Data Structures and Algorithms,B101B,A,P001,Monday,16:00-19:00,D005,BERLIN,26
+GISMA-129,B101,Data Structures and Algorithms,B101B,B,P001,Tuesday,09:00-12:00,D005,BERLIN,26
+GISMA-130,B123,Statistics,B101B,A,P002,Monday,13:00-16:00,D004,BERLIN,26
+GISMA-131,B123,Statistics,B101B,B,P002,Tuesday,13:00-16:00,D004,BERLIN,26
+GISMA-132,B206,Operating Systems,B101B,A,P003,Wednesday,09:00-12:00,D002,BERLIN,26
+GISMA-133,B206,Operating Systems,B101B,B,P003,Wednesday,13:00-16:00,D002,BERLIN,26
+GISMA-134,F100,English for FY,F100A,A,P009,Monday,09:00-12:00,D005,BERLIN,24
+GISMA-135,F100,English for FY,F100A,B,P009,Monday,13:00-16:00,D005,BERLIN,24
+GISMA-136,B113,Project Management,F100A,A,P006,Tuesday,13:00-16:00,D005,BERLIN,24
+GISMA-137,B113,Project Management,F100A,B,P006,Tuesday,16:00-19:00,D003,BERLIN,24
+GISMA-138,B124,Academic Writing,F100A,A,P008,Wednesday,09:00-12:00,D003,BERLIN,24
+GISMA-139,B124,Academic Writing,F100A,B,P008,Wednesday,13:00-16:00,D003,BERLIN,24
+GISMA-140,F107,Foundations of Computer Science,F107A,B,P010,Tuesday,16:00-19:00,D004,BERLIN,23
+GISMA-141,B101,Data Structures and Algorithms,F107A,B,P001,Wednesday,09:00-12:00,D004,BERLIN,23
+GISMA-142,B123,Statistics,F107A,B,P002,Wednesday,13:00-16:00,D004,BERLIN,23
+GISMA-143,M506,Research Methods and Scientific Work,M501A,B,F003,Monday,09:00-12:00,Room1,POTSDAM,23
+GISMA-144,M601,Advanced Mathematics,M501A,B,F008,Monday,16:00-19:00,Room1,POTSDAM,23
+GISMA-145,M603B,Advanced Algorithms,M501A,B,P001,Tuesday,13:00-16:00,MacPool,POTSDAM,23
+GISMA-146,M501,Innovation Management and Digital Transformation,M501B,B,F001,Monday,09:00-12:00,MacPool,POTSDAM,23
+GISMA-147,M506,Research Methods and Scientific Work,M501B,B,F003,Monday,13:00-16:00,MacPool,POTSDAM,23
+GISMA-148,M601,Advanced Mathematics,M501B,B,F008,Tuesday,09:00-12:00,Room1,POTSDAM,23
+GISMA-149,M603B,Advanced Algorithms,M501B,B,P001,Tuesday,16:00-19:00,Room1,POTSDAM,23
+GISMA-150,F107,Foundations of Computer Science,F107A,A,P010,Wednesday,16:00-19:00,D001,BERLIN,22
+GISMA-151,B101,Data Structures and Algorithms,F107A,A,P001,Thursday,09:00-12:00,D001,BERLIN,22
+GISMA-152,B123,Statistics,F107A,A,P002,Thursday,13:00-16:00,D001,BERLIN,22
+GISMA-153,M501,Innovation Management and Digital Transformation,M501A,A,F001,Monday,13:00-16:00,Room11,POTSDAM,22
+GISMA-154,M501,Innovation Management and Digital Transformation,M501A,B,F001,Tuesday,09:00-12:00,MacPool,POTSDAM,22
+GISMA-155,M506,Research Methods and Scientific Work,M501A,A,F003,Tuesday,16:00-19:00,MacPool,POTSDAM,22
+GISMA-156,M601,Advanced Mathematics,M501A,A,F008,Wednesday,09:00-12:00,Room1,POTSDAM,22
+GISMA-157,M603B,Advanced Algorithms,M501A,A,P001,Wednesday,13:00-16:00,Room1,POTSDAM,22
+GISMA-158,M501,Innovation Management and Digital Transformation,M501B,A,F001,Monday,16:00-19:00,MacPool,POTSDAM,22
+GISMA-159,M506,Research Methods and Scientific Work,M501B,A,F003,Tuesday,13:00-16:00,Room2,POTSDAM,22
+GISMA-160,M601,Advanced Mathematics,M501B,A,F008,Wednesday,13:00-16:00,MacPool,POTSDAM,22
+GISMA-161,M603B,Advanced Algorithms,M501B,A,P001,Wednesday,16:00-19:00,Room1,POTSDAM,22
+GISMA-162,M517,International Strategic Management,M517A,A,F005,Monday,09:00-12:00,Room11,POTSDAM,22
+GISMA-163,M517,International Strategic Management,M517A,B,F005,Monday,13:00-16:00,Room3,POTSDAM,22
+GISMA-164,M601,Advanced Mathematics,M517A,A,F008,Tuesday,16:00-19:00,Room2,POTSDAM,22
+GISMA-165,M601,Advanced Mathematics,M517A,B,F008,Wednesday,16:00-19:00,MacPool,POTSDAM,22
+GISMA-166,M513,Research Seminar,M517A,A,F004,Monday,16:00-19:00,Room6,POTSDAM,22
+GISMA-167,M513,Research Seminar,M517A,B,F004,Tuesday,09:00-12:00,Room2,POTSDAM,22
+GISMA-168,M517,International Strategic Management,M517B,A,F005,Monday,16:00-19:00,Room11,POTSDAM,22
+GISMA-169,M517,International Strategic Management,M517B,B,F005,Tuesday,09:00-12:00,Room6,POTSDAM,22
+GISMA-170,M601,Advanced Mathematics,M517B,A,F008,Monday,09:00-12:00,Room3,POTSDAM,22
+GISMA-171,M601,Advanced Mathematics,M517B,B,F008,Thursday,09:00-12:00,Room1,POTSDAM,22
+GISMA-172,M513,Research Seminar,M517B,A,F004,Monday,13:00-16:00,Room6,POTSDAM,22
+GISMA-173,M513,Research Seminar,M517B,B,F004,Tuesday,13:00-16:00,Room6,POTSDAM,22
+GISMA-174,M517,International Strategic Management,M517C,A,F005,Tuesday,13:00-16:00,Room11,POTSDAM,22
+GISMA-175,M517,International Strategic Management,M517C,B,F005,Tuesday,16:00-19:00,Room6,POTSDAM,22
+GISMA-176,M601,Advanced Mathematics,M517C,A,F008,Thursday,13:00-16:00,Room1,POTSDAM,22
+GISMA-177,M601,Advanced Mathematics,M517C,B,F008,Thursday,16:00-19:00,Room1,POTSDAM,22
+GISMA-178,M513,Research Seminar,M517C,A,F004,Monday,09:00-12:00,Room6,POTSDAM,22
+GISMA-179,M513,Research Seminar,M517C,B,F004,Wednesday,09:00-12:00,MacPool,POTSDAM,22

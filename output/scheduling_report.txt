@@ -1,0 +1,7 @@
+GISMA UNIVERSITY OF APPLIED SCIENCES - THE SCHEDULING REPORT
+------------------------------------------------------------
+
+Student: Cynthia Samuel (Master of Engineering - Computer Science)
+Scheduled Classes: 79
+Total Room Capacity Waste: 1396 Seat Slots
+Validation Conflicts Flagged: 0
