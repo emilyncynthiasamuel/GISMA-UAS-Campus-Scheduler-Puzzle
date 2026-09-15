@@ -289,7 +289,7 @@ The Main Execution File is: src/main.py
 (i) You can Download the Project from GitHub or even Clone it using Git.
 
 For Example:
-git clone <GITHUB_LINK_PLACEHOLDER>
+git clone https://github.com/emilyncynthiasamuel/GISMA-UAS-Campus-Scheduler-Puzzle
 
 (ii) Then enter the project folder:
 cd GISMA_UAS_Campus_Scheduler_Puzzle
@@ -383,12 +383,12 @@ In the current Execution, the output includes all 79 Generated Class Requests wh
 # 16. GitHub Repository
 
 GitHub Repository Link:
-<GITHUB_LINK_PLACEHOLDER>
+https://github.com/emilyncynthiasamuel/GISMA-UAS-Campus-Scheduler-Puzzle
 
 # 17. Video Demonstration
 
 Video Demonstration Link:
-<VIDEO_LINK_PLACEHOLDER>
+https://www.youtube.com/watch?v=2jiAOmeUjlc
 
 The Video Demonstration shows the following details:
 Project Structure, Dataset, Main Execution, Greedy Scheduling Algorithm, Conflict graph and Welsh-Powell Coloring, Dynamic Programming Room Optimization, Backtracking, Final Timetable, Validation Result and the Generated Reports.
