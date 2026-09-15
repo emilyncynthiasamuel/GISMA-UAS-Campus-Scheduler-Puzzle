@@ -391,7 +391,7 @@ Video Demonstration Link:
 https://www.youtube.com/watch?v=2jiAOmeUjlc
 
 The Video Demonstration shows the following details:
-Project Structure, Dataset, Main Execution, Greedy Scheduling Algorithm, Conflict graph and Welsh-Powell Coloring, Dynamic Programming Room Optimization, Backtracking, Final Timetable, Validation Result and the Generated Reports.
+Project Structure, Dataset, Main Execution, Greedy Scheduling Algorithm, Graph Theory, Dynamic Programming Room Optimization, Backtracking, Final Timetable, Validation Result and the Generated Reports.
 
 # 18. Conclusion
 
@@ -399,6 +399,3 @@ This Campus Scheduler Project shows that how different Algorithms Techniques can
 While Dynamic Programming optimizes the Room Allocation by minimizing any Unused Seating Capacity, on the other hand, Backtracking gives the Recovery Mechanism for any Unresolved Classes.
 
 The Final Validation Stage checks the generated timetable and it provides the Reports for further evaluation and sometimes a Manual Intervention might be required. In conclusion, this Project demonstrates the Practical Applications of Greedy Algorithm, Graph Theory, Dynamic Programming and Backtracking to the real-world University Timetable Scheduling Problem.
-
-
-
